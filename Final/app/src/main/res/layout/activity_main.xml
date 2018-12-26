@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context=".adapter.Fragment.MainActivity"
+	android:orientation="vertical"
+	android:background="@android:color/white">
+
+	<LinearLayout
+		android:id="@+id/fragment_container_MainActivity"
+		android:layout_width="match_parent"
+		android:layout_height="0dip"
+		android:layout_weight="1"
+		android:orientation="vertical">
+
+	</LinearLayout>
+
+	<View
+		android:layout_width="match_parent"
+		android:layout_height="0.5dip"
+		android:background="@android:color/darker_gray"/>
+
+	<LinearLayout
+		android:id="@+id/footer_MainActivity"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+
+		<TextView
+			android:id="@+id/footer_message"
+			android:text="@string/message"
+			style="@style/FooterStyle1"/>
+
+		<TextView
+			android:id="@+id/footer_friend"
+			android:text="@string/friend"
+			style="@style/FooterStyle2"/>
+
+		<TextView
+			android:id="@+id/footer_feed"
+			android:text="@string/feed"
+			style="@style/FooterStyle3"/>
+
+		<TextView
+			android:id="@+id/footer_my_home"
+			android:text="@string/my_home"
+			style="@style/FooterStyle4"/>
+
+	</LinearLayout>
+</LinearLayout>

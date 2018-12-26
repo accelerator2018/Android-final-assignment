@@ -1,0 +1,16 @@
+<resources>
+    <!--<string name="app_name">My Application</string>-->
+
+    <string name="app_name">myapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="message">信息发布</string>
+    <string name="friend">市场</string>
+    <string name="feed">信息查询</string>
+    <string name="my_home">我的</string>
+
+    <string name="message_msg">教务处</string>
+    <string name="message_conversation">社团院系</string>
+    <string name="message_video">其他</string>
+
+</resources>
