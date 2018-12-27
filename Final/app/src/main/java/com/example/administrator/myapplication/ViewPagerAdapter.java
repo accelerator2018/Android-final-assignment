@@ -1,4 +1,4 @@
-package com.example.accelerator.myapplication;
+package com.example.administrator.myapplication;
 
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;

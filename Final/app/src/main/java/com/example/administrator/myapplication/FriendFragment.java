@@ -1,4 +1,4 @@
-package com.example.accelerator.myapplication;
+package com.example.administrator.myapplication;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;

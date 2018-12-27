@@ -1,4 +1,4 @@
-package com.example.accelerator.myapplication;
+package com.example.administrator.myapplication;
 
 //import com.example.accelerator.myapplication.R;
 

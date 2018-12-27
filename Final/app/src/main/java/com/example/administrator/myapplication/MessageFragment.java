@@ -1,4 +1,4 @@
-package com.example.accelerator.myapplication;
+package com.example.administrator.myapplication;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
